@@ -1,0 +1,8 @@
+step 1: Open psoStatisticalMeasures File
+step 2: Add any one of fitness function.
+
+FITNESS FUNCTION
+1: Sphere function- @spheref
+2: Griewank function- @griewank
+3: Rosenbrock function- @rosen
+4: Rastrigin function- @rastr

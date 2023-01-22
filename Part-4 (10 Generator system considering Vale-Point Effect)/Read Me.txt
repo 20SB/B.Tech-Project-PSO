@@ -1,0 +1,6 @@
+step 1: Open psoStatisticalMeasures File
+step 2: Add any one of fitness function.
+
+FITNESS FUNCTION
+1: Total Fuel Cost minimization function- @EED
+
